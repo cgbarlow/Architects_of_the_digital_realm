@@ -13,6 +13,6 @@ Source code: https://gist.github.com/levelsio/5bc87fd1b1ffbf4a705047bebd9b4790
 Play the game now here (ChatGPT Plus subscription required):
 https://chat.openai.com/g/g-dCI6AcJhi-architects-of-the-digital-realm
 
-## Codebase
+### Source code
 All the details you need to create your own version of this is under here: 
 https://github.com/cgbarlow/Architects_of_the_digital_realm/blob/main/customgpt
