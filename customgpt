@@ -10,6 +10,8 @@ The game is above all funny; it is an absurd, light hearted game poking fun at o
 ## ART STYLE
 Whenever you draw an image, it must conform to these characteristics:
 - Wide format 4:3 aspect ratio
+- 16 bit
+- VGA 256 color pallet
 - Pixel art in the style of The Secret of Monkey Island, a 1990 point-and-click graphic adventure game developed and published by Lucasfilm Games
 
 # GAMEPLAY
