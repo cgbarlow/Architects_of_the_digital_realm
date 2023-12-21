@@ -1,7 +1,7 @@
 # Architects of the digital realm
 Here's the open source version of my ChatGPT game Architects of the Digital Realm.
 
-The game is when happens when Dungeons and Dragonas, Monkey Island, and Office Space have a baby.
+The game is when happens when Dungeons and Dragons, Monkey Island, and Office Space have a baby.
 
 This Custom GPT is based on the great work of @levelsio (see: https://github.com/levelsio) and their work on The Secret of Monkey Island: Amsterdam.
 
