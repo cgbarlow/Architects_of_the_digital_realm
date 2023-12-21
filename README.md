@@ -1,5 +1,5 @@
 # Architects of the digital realm
-Here's the open source version of my ChatGPT game Architects of the Digital Realm.
+Here's the open source version of my Custom GPT-based text+image adventure game, Architects of the Digital Realm.
 
 The game is when happens when Dungeons and Dragons, Monkey Island, and Office Space have a baby.
 
