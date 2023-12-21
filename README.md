@@ -14,5 +14,5 @@ Play the game now here (ChatGPT Plus subscription required):
 https://chat.openai.com/g/g-dCI6AcJhi-architects-of-the-digital-realm
 
 ### Source code
-All the details you need to create your own version of this is under here: 
+The Custom GPT insteuctions you need to create your own version of this is under here: 
 https://github.com/cgbarlow/Architects_of_the_digital_realm/blob/main/customgpt
