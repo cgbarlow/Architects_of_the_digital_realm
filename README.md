@@ -12,6 +12,7 @@ Source code: https://gist.github.com/levelsio/5bc87fd1b1ffbf4a705047bebd9b4790
 ## The Game
 Play the game now here:
 https://chat.openai.com/g/g-dCI6AcJhi-architects-of-the-digital-realm
+
 ![image](https://github.com/cgbarlow/customgpts/assets/959402/bbc76e75-e54f-4895-8d55-159c7a9823e4)
 
 ### Source code
