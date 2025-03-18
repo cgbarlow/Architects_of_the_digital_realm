@@ -5,10 +5,6 @@ The game is what happens when Dungeons and Dragons, Monkey Island, and Office Sp
 
 This Custom GPT is based on the great work of @levelsio (see: https://github.com/levelsio) and their work on The Secret of Monkey Island: Amsterdam.
 
-Game: https://MonkeyIslandAmsterdam.com
-
-Source code: https://gist.github.com/levelsio/5bc87fd1b1ffbf4a705047bebd9b4790
-
 ## The Game
 Play the game now here:
 https://chat.openai.com/g/g-dCI6AcJhi-architects-of-the-digital-realm
